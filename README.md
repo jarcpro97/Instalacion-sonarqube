@@ -60,3 +60,7 @@ volumes:
   sonarqube_extensions:
   postgresql:
   postgresql_data:
+  
+  
+  Referencias:
+  https://awstip.com/installing-sonarqube-on-aws-ec2-instance-and-integrating-it-with-aws-codepipeline-abec99416ba4
